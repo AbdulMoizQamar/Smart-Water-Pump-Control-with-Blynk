@@ -1,6 +1,5 @@
 # Smart-Water-Pump-Control-with-Blynk
-
-**Description**
+Description
 This project uses the ESP32 microcontroller to monitor and control a water pump based on water levels using an ultrasonic sensor. The system also measures water flow using a flow sensor. Data is sent to the Blynk IoT platform for real-time monitoring and remote control.
 
 Water Level Control: The water pump is automatically controlled based on the water level detected by the ultrasonic sensor.
